@@ -2,7 +2,7 @@ init code
 
 configurou o git na maquina com os seguintes comandos : 
 
-git config --global user.email "<nome>"     
+git config --global user.name "<nome>"     
 git config --global user.email "<email>"
 
 configuramos a chave ssh
